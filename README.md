@@ -18,4 +18,4 @@
 1. Use of project tickets and features
 
 ### Notes
-1. In this project, after 2 days, we swapped our repos with other groups.  After, we picked up the other groups code, with no instruction or explanation from them, finished the project using all the code they had begun.
+1. In this project, after 2 days, we swapped our repos with other groups.  After, we picked up the other groups code, with no instruction or explanation from them, finished the project using all the code they had begun. Our group was the only one to achieve MVP within the next 1.5 days we had to work on it.
