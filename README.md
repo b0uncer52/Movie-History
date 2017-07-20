@@ -1,9 +1,5 @@
 # Movie History
 
-You will be split up into teams of three, and your team will build a new application to keep track of movies that you have seen, and want to see, with your own ratings.
-* https://www.themoviedb.org
-* Request an api key
-
 ## Requirements
 1. Must have the ability to register a user in Firebase
 1. Must have the ability to log in
@@ -21,6 +17,5 @@ You will be split up into teams of three, and your team will build a new applica
 1. For the layout, we suggest Bootstrap, but if you want to stretch your legs, you can try [Materialize](http://materializecss.com/).
 1. Use of project tickets and features
 
-## Mockup
-
-Review the [basic design](https://app.moqups.com/chortlehoort/uGBbLbK46Y/view/page/a3a0e7bf6) and ask questions to your product owner for clarification, or ideas on features.
+### Notes
+1. In this project, after 2 days, we swapped our repos with other groups.  After, we picked up the other groups code, with no instruction or explanation from them, finished the project using all the code they had begun.
